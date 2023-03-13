@@ -103,3 +103,6 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
+
+Результат вывода в терминал:
+> ![image answer in terminal](task_done.png)
